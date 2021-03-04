@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-ng-ad241": {
+      "hosting": {
+        "login": [
+          "login-ng-ad241"
+        ]
+      }
+    }
+  }
+}
